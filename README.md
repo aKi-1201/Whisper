@@ -7,5 +7,4 @@ source: <https://colab.research.google.com/drive/1oKn8MgZETXxT0t6iLM4JcN_LmuhckS
 ```
 pip install git+https://github.com/openai/whisper.git
 pip install torch
-pip install ffmpeg-python
 ```
